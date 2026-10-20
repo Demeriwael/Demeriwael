@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="112" viewBox="0 0 1200 112" role="img" aria-labelledby="title desc">
+<title id="title">Let's build something useful.</title>
+<desc id="desc">Open to software engineering opportunities. Get in touch at waeldemeri@gmail.com.</desc>
+<defs><linearGradient id="fill" x1="0" x2="1"><stop stop-color="#102D35"/><stop offset="1" stop-color="#11212F"/></linearGradient></defs>
+<rect x=".5" y=".5" width="1199" height="111" rx="20" fill="url(#fill)" stroke="#345A64"/>
+<rect x="0" y="30" width="3" height="52" rx="1.5" fill="#7CE5D3"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="30" y="47" fill="#EFF7F4" font-size="27" font-weight="650">Let's build something useful.</text>
+<text x="30" y="78" fill="#A3BDC4" font-size="16">Open to software engineering opportunities</text>
+<text x="1135" y="62" fill="#8CE3D3" text-anchor="end" font-size="21" font-weight="600">waeldemeri@gmail.com</text>
+<path d="M1152 53H1165M1159 47L1165 53L1159 59" stroke="#8CE3D3" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
