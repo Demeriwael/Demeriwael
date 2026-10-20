@@ -1,61 +1,86 @@
-<h1>Hi, I'm Wael Demeri</h1>
+<p align="center">
+  <a href="https://demeri.dev"><img src="header.svg" width="100%" alt="Wael Demeri — Software Engineer. Thoughtful interfaces. Solid engineering." /></a>
+</p>
 
-**Software Engineer · Full-Stack & Mobile Development · Jordan**
+<p align="center">
+  <b><a href="https://demeri.dev">Portfolio ↗︎</a> &nbsp; · &nbsp; <a href="mailto:waeldemeri@gmail.com">Get in touch ↗︎</a> &nbsp; · &nbsp; <a href="https://certiblank.com">Try CertiBlank ↗︎</a> &nbsp; · &nbsp; <a href="https://wayline.demeri.dev">Try Wayline ↗︎</a></b>
+</p>
 
-I build web and mobile applications, from the interface and API to the database and deployment. My projects turn certification practice, trip planning, and queue management into useful, approachable tools.
+<p align="center">
+  I build web and mobile applications, from the first screen to the API and deployment.<br />
+  <b>Software Engineering graduate · Jordan · Open to opportunities</b>
+</p>
 
-[Portfolio](https://demeri.dev) · [Email](mailto:waeldemeri@gmail.com) · [Try CertiBlank](https://certiblank.com) · [Try Wayline](https://wayline.demeri.dev)
+<br />
 
-**Open to software engineering opportunities.**
+## Selected work
 
-## Selected projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### [CertiBlank](https://github.com/Demeriwael/certiBlank)
+### 01 &nbsp; CertiBlank
 
-An open-source IT certification practice platform with timed mock exams, focused quizzes, answer explanations, and saved progress.
+**A clearer path to your next certification.**
 
-- Server-side grading and exam deadlines, guest practice, and account-linked history.
-- Automated checks and a Docker deployment on AWS EC2.
-- **Built with:** Next.js, TypeScript, PostgreSQL, Prisma, Docker, and AWS.
+<p align="center">
+  <a href="https://certiblank.com"><img src="https://raw.githubusercontent.com/Demeriwael/certiBlank/main/docs/media/landing.jpg" height="160" alt="CertiBlank's landing page with an interactive certification question" /></a>
+</p>
 
-[Live app](https://certiblank.com) · [Source & architecture](https://github.com/Demeriwael/certiBlank#architecture)
+Timed mock exams, focused quizzes, answer explanations, and saved progress. Server-side grading, guest-to-account history, and Docker deployment on AWS EC2.
 
-### [Wayline](https://github.com/Demeriwael/truckmena)
+<code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>AWS</code>
 
-A full-stack truck trip planner that turns a route into scheduled stops, an interactive itinerary, and downloadable daily driver log sheets.
+**[Live app ↗︎](https://certiblank.com)** &nbsp; · &nbsp; [Source & architecture](https://github.com/Demeriwael/certiBlank#architecture)
 
-- A Python scheduling engine behind a Django REST API, with a React route map.
-- Tests for scheduling boundaries, API behavior, and frontend interactions.
-- **Built with:** React, TypeScript, Python, Django REST Framework, and Leaflet.
+</td>
+<td width="50%" valign="top">
 
-[Live demo](https://wayline.demeri.dev) · [Source & setup](https://github.com/Demeriwael/truckmena)
+### 02 &nbsp; Wayline
 
-### [Tanzeem](https://github.com/Demeriwael/tanzeem)
+**A clear route. Every required stop.**
 
-My Software Engineering graduation project at Middle East University: a mobile queue management system with real-time updates, QR check-in, and user and administrator interfaces.
+<p align="center">
+  <a href="https://wayline.demeri.dev"><img src="https://raw.githubusercontent.com/Demeriwael/truckmena/main/docs/images/desktop-planner.png" height="160" alt="Wayline's route planner with a truck itinerary and trip summary" /></a>
+</p>
 
-**Built with:** React Native, Expo, TypeScript, Firebase, and Firestore.
+Truck trip planning with an interactive map, scheduled stops, and downloadable driver log sheets. A Python scheduling engine behind a Django REST API.
 
-[Explore the project](https://github.com/Demeriwael/tanzeem)
+<code>React</code> <code>TypeScript</code> <code>Python</code> <code>Django</code>
 
-## Technologies I work with
+**[Live demo ↗︎](https://wayline.demeri.dev)** &nbsp; · &nbsp; [Source & setup](https://github.com/Demeriwael/truckmena)
 
-| Area | Technologies |
-| --- | --- |
-| Web | TypeScript, JavaScript, React, Next.js, Tailwind CSS |
-| Mobile | React Native, Expo, Firebase |
-| Backend & data | Python, Django REST Framework, PostgreSQL, Prisma |
-| Cloud & delivery | AWS EC2, Docker, Nginx, GitHub Actions |
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-## How I build
+### 03 &nbsp; Tanzeem
 
-- Keep interfaces responsive and accessible.
-- Validate requests and enforce application rules on the server.
-- Test core behavior and use CI to check changes before release.
-- Document architecture, setup, deployment, and deliberate tradeoffs.
+**Less waiting. Better flow.** A mobile queue management system with real-time tracking, QR check-in, and dedicated visitor and administrator interfaces. My graduation project at Middle East University.
 
-## More about me
+<code>React Native</code> <code>Expo</code> <code>TypeScript</code> <code>Firebase</code>
 
-I'm a Software Engineering graduate of Middle East University in Jordan. During my internship at Optimum Partners, I worked on backend features for a car rental website using C#, ASP.NET, REST APIs, and SQL. Alongside my open-source projects, I build client websites, including the bilingual [Kleon Law](https://kleonlaw.com) website.
+**[Explore the project ↗︎](https://github.com/Demeriwael/tanzeem)**
 
-See more work at **[demeri.dev](https://demeri.dev)** or reach me at **[waeldemeri@gmail.com](mailto:waeldemeri@gmail.com)**.
+</td>
+</tr>
+</table>
+
+## From interface to infrastructure
+
+<img src="toolkit.svg" width="100%" alt="TypeScript, React, Next.js, Tailwind CSS, React Native, Expo, Firebase, PostgreSQL, Python, Django, Prisma, Docker, and AWS EC2" />
+
+**Engineering habits:** accessible interfaces · server-side validation · automated tests · GitHub Actions · documented architecture and deployment.
+
+## A little context
+
+- **Software Engineering graduate** — Middle East University, Jordan.
+- **Backend internship at Optimum Partners** — C#, ASP.NET, REST APIs, and SQL for a car rental application.
+- **Freelance development** — client websites from design through deployment, including the bilingual [Kleon Law](https://kleonlaw.com) website.
+
+<br />
+
+<a href="mailto:waeldemeri@gmail.com"><img src="contact.svg" width="100%" alt="Let's build something useful. Email waeldemeri@gmail.com." /></a>
+
+<p align="center"><sub><a href="https://demeri.dev">More work at demeri.dev</a></sub></p>
